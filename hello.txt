@@ -1,2 +1,7 @@
 This is branch merge example
+
 This is done by developer 2
+
+This is done by developer 1
+
+
